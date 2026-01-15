@@ -7,17 +7,17 @@
     "files":  [
                   {
                       "name":  "image1.png",
-                      "url":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/image1.png",
+                      "url":  "https://raw.githubusercontent.com/TahirHanif-GRL/app-cloud-data/main/image1.png",
                       "hash":  "48B2B5C144261E4999397912EE522D4FBAAA8C76F56D8203230684F9FC726989"
                   },
                   {
                       "name":  "image2.png",
-                      "url":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/image2.png",
+                      "url":  "https://raw.githubusercontent.com/TahirHanif-GRL/app-cloud-data/main/image2.png",
                       "hash":  "0D9915176E9DEF13B29B0AF440F7AB23B6C1ABE257EA45FE1ED08090578129C5"
                   },
                   {
                       "name":  "Timetable-2026.csv",
-                      "url":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/Timetable-2026.csv",
+                      "url":  "https://raw.githubusercontent.com/TahirHanif-GRL/app-cloud-data/main/Timetable-2026.csv",
                       "hash":  "F743B72EDD703F5B1B39BC66B00871495CCD14B4CEE1389FB4FBE0A05C957BE5"
                   }
               ]
