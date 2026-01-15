@@ -1,7 +1,24 @@
 {
-  "data_url": "https://raw.githubusercontent.com/TahirHanif-GRL/app-cloud-data/main/testtable.csv",
-  "csv_sha256": "3DDDF09246AF293D1E84E9D41B03A2AE12F9DFB7FD65F2DFA925B19181EF0DE7",
-  "version": "1.0.0"
-
+    "project":  {
+                    "date":  "2026-01-15",
+                    "projectName":  "Prayer Time Table",
+                    "configVersion":  "1.0.0"
+                },
+    "files":  [
+                  {
+                      "image1":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/image1.png",
+                      "hash":  "48B2B5C144261E4999397912EE522D4FBAAA8C76F56D8203230684F9FC726989"
+                  },
+                  {
+                      "image2":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/image2.png",
+                      "hash":  "0D9915176E9DEF13B29B0AF440F7AB23B6C1ABE257EA45FE1ED08090578129C5"
+                  },
+                  {
+                      "table":  "https://raw.githubusercontent.com/USERNAME/app-cloud-data/main/Timetable-2026.csv",
+                      "hash":  "F743B72EDD703F5B1B39BC66B00871495CCD14B4CEE1389FB4FBE0A05C957BE5"
+                  }
+              ]
 }
 
+
+{"configHash": "74526B0FC3C514C880DEDB7CEAB0495BAD63606C4F1AB86A88C6538E83C0BE1F"}
